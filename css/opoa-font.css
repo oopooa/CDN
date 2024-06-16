@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'SourceHanSerifSC';
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/oopooa/cdn/font/SourceHanSerifSC-VF.otf.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'HarmonyOS_Sans_SC_Medium';
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/oopooa/cdn/font/HarmonyOS_Sans_SC_Medium.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'JetBrainsMono Regular';
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/oopooa/cdn/font/JetBrainsMono-Regular.woff2) format('woff2');
+}
