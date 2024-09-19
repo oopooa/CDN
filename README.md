@@ -1,5 +1,5 @@
 # CDN
 jsDeliverCDN
 
-资源路径：https://cdn.jsdelivr.net/gh/oopooa/cdn
+资源使用前缀：https://cdn.jsdelivr.net/gh/oopooa/cdn
 
